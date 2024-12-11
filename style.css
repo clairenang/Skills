@@ -1,0 +1,57 @@
+
+body {
+    background-color: white;
+}
+button{
+    background-color: white;
+    border-color: white;
+    box-shadow: none;
+    text-shadow: none;
+}
+footer {
+    padding-bottom: 1%;
+    min-height: 55px;
+    max-height: 55px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    width: 100%;
+    position: fixed;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: rgb(46, 86, 145);
+
+}
+p {
+
+    color: rgb(0, 0, 0);
+    font-size: large;
+    background-color: rgb(227, 232, 241);
+}
+a {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration-line: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav {
+    position: fixed;
+    background-color: rgb(46, 86, 145);
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.nav a:hover {
+    background-color: white;
+    color: rgb(46, 86, 145);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+}
+
